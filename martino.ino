@@ -1,10 +1,10 @@
 /*
-  Example code for the Freetronics LCD & Keypad Shield:
   
-    http://www.freetronics.com/products/lcd-keypad-shield
-  
-  by Marc Alexander, 7 September 2011
-  This example code is in the public domain.
+  Some of this by Marc Alexander at Freetronics
+
+  Some by me, www.spudooli.com
+
+  Have at any of it.
   
 */
 
